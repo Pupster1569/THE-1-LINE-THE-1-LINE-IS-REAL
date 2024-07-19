@@ -1,0 +1,1 @@
+txt = input().lower().replace(" ","") ; print("Palindrome" if txt == txt[::-1] else "Not a palindrome")
