@@ -1,0 +1,1 @@
+print(''.join(sorted([*(input().upper())])[-1:]))
